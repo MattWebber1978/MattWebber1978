@@ -1,4 +1,4 @@
-# Matt Webber — Senior Salesforce Engineer
+# Matt Webber — Senior Salesforce Professional
 
 I'm a London-based Salesforce Engineer with 6+ years of hands-on experience across the full platform, currently working at Hargreaves Lansdown on Service Cloud, OmniChannel, and Financial Services Cloud implementations.
 
@@ -6,7 +6,7 @@ My background spans programmatic development and platform architecture — I spe
 
 ---
 
-## Certifications — 12 active credentials
+## Certifications — 13 active credentials
 
 `Administrator` `Advanced Administrator` `Platform App Builder` `Business Analyst`
 `Platform Developer I` `Platform Developer II` `Sales Cloud Consultant`
